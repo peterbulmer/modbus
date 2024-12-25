@@ -33,7 +33,7 @@ Shopping list
    especially if you have multiple phases available and your heat pump may
    be on a different phase to your computer.
 
- * A suitable termination for you're adapter's RS485 interface.  If it
+ * A suitable termination for youre adapter's RS485 interface.  If it
    terminates in an RJ45 plug, that could be a
    network wall box and RJ45 front plate.  If your adapter terminates in screw
    terminals, you may not need additional hardware.
